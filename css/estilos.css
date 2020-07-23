@@ -24,7 +24,7 @@
 body {
   width: 96em;
   min-width: 100%;
-  background: orange/*var(--lightGrayishCyan)*/;
+  background: var(--lightGrayishCyan);
   padding-bottom: 3.33em;
 }
 
